@@ -1,16 +1,16 @@
 {
-    "Git_Configuration":  [
-                              {
-                                  "git_username":  null,
-                                  "git_provider":  "gitHub"
-                              }
-                          ],
-    "Repo_Configuration":  [
-                               {
-                                   "url":  null,
-                                   "provider":  "gitHub",
-                                   "path":  "DevelopmentFolder",
-                                   "branch":  "main"
-                               }
-                           ]
+    "Git_Configuration": [
+        {
+            "git_username": "BenConstable9",
+            "git_provider": "gitHub"
+        }
+    ],
+    "Repo_Configuration": [
+        {
+            "url": "https://github.com/BenConstable9/dstoolkit-mlops-databricks",
+            "provider": "gitHub",
+            "path": "DevelopmentFolder",
+            "branch": "main"
+        }
+    ]
 }
